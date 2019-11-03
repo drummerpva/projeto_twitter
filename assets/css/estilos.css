@@ -1,0 +1,51 @@
+body{
+    margin:0;
+}
+.topo{
+    height: 40px;
+    background: #555;
+    color:#FFF;
+}
+.topoInt{
+    width: 100%;
+    max-width: 1024px;
+    margin:auto;
+}
+.topoLeft{
+    width: 50%;
+    line-height: 40px;
+    float:left;
+}
+.topoRight{
+    width: 50%;
+    line-height: 40px;
+    float:right;
+    text-align: right;
+}
+.container{
+    width: 100%;
+    max-width: 1024px;
+    margin:auto;
+}
+.feed{
+    width: 70%;
+    min-height: 300px;
+    float:left;
+}
+.rightSide{
+    width: 30%;
+    min-height: 300px;
+    float:left;
+    background: #EEE;
+}
+.rsMeio{
+    width: 50%;
+    height: 50px;
+    float:left;
+    text-align: center;
+}
+.taPost{
+    width: 100%;
+    height: 100px;
+    resize: none;
+}
